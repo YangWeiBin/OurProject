@@ -1,3 +1,247 @@
+
+# 一些目录
+*/*others/
+*/*Others/
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+# Prerequisites
+*.d
+# Object files
+*.o
+*.ko
+# Makefile files  
+Makefile*
+# 大于100M 
+*-big.*
+# 私有不更新
+*-pvt.*
+*人名*
+# 压缩文件
+*.zip
+*.rar
+*.7z
+
+
+## [Windows][https://www.cnblogs.com/xuld/p/5934319.html]
+*.lnk
+$RECYCLE.BIN
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+## [Visual Studio][https://www.cnblogs.com/xuld/p/5934319.html]
+.vs
+obj
+ipch
+*.sln.*
+*.vshost.*
+*.suo
+*.user
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp_proj
+*_i.c
+*_p.c
+*.vspscc
+*.vssscc
+*.pidb
+*.scc
+csx
+*.build.csdef
+*.aps
+*.ncb
+*.cachefile
+*.psess
+*.vsp
+*.vspx
+*.gpState
+_TeamCity*
+
+## [qtcreator][https://gitee.com/DonnyChao/qt-creator/blob/master/.gitignore]
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+*.rc
+*.embed.manifest
+/.qmake.cache
+/.qmake.stash
+*_wrapper.sh
+*_wrapper.bat
+wrapper.sh
+wrapper.bat
+
+# qtcreator generated files
+*.pro.user*
+*.creator.user*
+*.qbs.user*
+*.qmlproject.user*
+*.pyqtc.user*
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# gcov files
+*.gcov
+*.gcda
+*.gcno
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Directories to ignore
+# ---------------------
+debug/
+release/
+
+# Binaries
+# --------
+*.dll
+*.exe
+
+# qbs builds
+/*-debug/
+/*-release/  
+
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+.directory
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+*.rc
+/.qmake.cache
+/.qmake.stash
+
+# qtcreator generated files
+*.pro.user*
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Binaries
+# --------
+*.dll
+*.exe
+
+
+
+##-----------------------------------------------------------------------------
+
+
+
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
