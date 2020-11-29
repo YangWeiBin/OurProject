@@ -1,3 +1,3 @@
 set path=%cd%
-F:\GithubRepository\RenameFile\RenameForGithub.exe %path%
+H:\RenameFile\RenameForGithub.exe %path%
 pause
